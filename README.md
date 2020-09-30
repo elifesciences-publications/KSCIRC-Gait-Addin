@@ -1,4 +1,7 @@
 # KSCIRC-Gait-Addin
+
+This code is associated with the paper from Pocratsky et al., "Long ascending propriospinal neurons provide flexible, context-specific control of interlimb coordination". eLife, 2020. http://doi.org/10.7554/eLife.53565
+
 An add-in for Microsoft Excel Gait that calculates all of the gait measures for files digitized in Matraq and save is Ascii format. 
 Install:
   1. Download file
